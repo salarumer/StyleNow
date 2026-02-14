@@ -1,0 +1,5 @@
+{
+  "name": "StyleNow",
+  "description": "A virtual fashion try-on application powered by Gemini 3 Pro. Upload your photo and a clothing item to see how it fits, get professional fashion analysis, and view different angles.",
+  "requestFramePermissions": []
+}
